@@ -1,0 +1,37 @@
+SortingVisualizer/
+│
+├─ CMakeLists.txt
+├─ README.md
+│
+├─ src/
+│  ├─ main.cpp
+│  │
+│  ├─ core/
+│  │  ├─ Action.h
+│  │  ├─ Action.cpp
+│  │  ├─ SortAlgorithm.h
+│  │
+│  ├─ algorithms/
+│  │  ├─ BubbleSort.h
+│  │  ├─ BubbleSort.cpp
+│  │  ├─ QuickSort.h
+│  │  ├─ QuickSort.cpp
+│  │  ├─ HeapSort.h
+│  │  └─ HeapSort.cpp
+│  │
+│  ├─ renderer/
+│  │  ├─ Renderer.h
+│  │  ├─ ConsoleRenderer.h
+│  │  └─ ConsoleRenderer.cpp
+│  │
+│  ├─ utils/
+│  │  ├─ RandomGenerator.h
+│  │  ├─ Timer.h
+│  │  └─ ConsoleUtils.h
+│  │
+│  └─ factory/
+│     ├─ SortFactory.h
+│     └─ SortFactory.cpp
+│
+└─ assets/
+   └─ demo.txt

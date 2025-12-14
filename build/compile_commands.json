@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/32257/Desktop/DataStructureHomewor/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/VisualSort.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\VisualSort.dir\\src\\main.cpp.obj -c C:\\Users\\32257\\Desktop\\DataStructureHomewor\\src\\main.cpp",
+  "file": "C:/Users/32257/Desktop/DataStructureHomewor/src/main.cpp",
+  "output": "CMakeFiles/VisualSort.dir/src/main.cpp.obj"
+}
+]
